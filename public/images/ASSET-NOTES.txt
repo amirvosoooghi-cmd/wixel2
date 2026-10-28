@@ -1,0 +1,6 @@
+WIXEL Studio image assets
+- hero-portrait-clean.jpg: clean portrait crop with no baked-in interface text.
+- orange-chair-clean.jpg: clean sculptural chair crop with no baked-in interface text.
+- hero-architecture.jpg: clean architecture crop with no baked-in interface text.
+- team-editorial.jpg: warm orange-lit team visual used instead of the oversized founder portrait.
+- Project mockups are local supplied references; replace with approved clean exports before launch if any text is embedded in those screenshots.
